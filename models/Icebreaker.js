@@ -9,4 +9,4 @@ class Icebreaker{
 
 module.exports = Icebreaker;
 
-const Question = requires(.models/Question.js);
+const Question = requires(./Question.js);
