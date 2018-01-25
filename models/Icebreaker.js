@@ -8,4 +8,3 @@ class Icebreaker{
 }
 
 module.exports = Icebreaker
-
